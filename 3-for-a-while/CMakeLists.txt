@@ -1,0 +1,6 @@
+add_executable(stars stars.c)
+add_executable(prime primes.c)
+add_executable(selection-sort selection-sort.c)
+add_executable(palindrome palindrome.c)
+add_executable(BinarySearch BinarySearch.c)
+add_executable(digits-do-while digits-do-while.c)

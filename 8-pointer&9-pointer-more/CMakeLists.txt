@@ -1,0 +1,7 @@
+add_executable(pointer pointer.c)
+add_executable(selection-sort selection-sort.c)
+add_executable(strlen strlen.c)
+add_executable(StrLen_2 StrLen_2.c)
+add_executable(strcpy strcpy.c)
+add_executable(selection-sort-strings selection-sort-strings.c)
+add_executable(array-pointer array-pointer.c)
